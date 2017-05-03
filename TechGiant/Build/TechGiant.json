@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TechGiant.data.unityweb",
+"asmCodeUrl": "TechGiant.asm.code.unityweb",
+"asmMemoryUrl": "TechGiant.asm.memory.unityweb",
+"asmFrameworkUrl": "TechGiant.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
