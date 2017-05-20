@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ScatteredOnGalacticWinds.data.unityweb",
+"asmCodeUrl": "ScatteredOnGalacticWinds.asm.code.unityweb",
+"asmMemoryUrl": "ScatteredOnGalacticWinds.asm.memory.unityweb",
+"asmFrameworkUrl": "ScatteredOnGalacticWinds.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
