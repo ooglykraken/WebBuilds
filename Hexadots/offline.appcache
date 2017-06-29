@@ -1,11 +1,10 @@
 ﻿CACHE MANIFEST
-#1498767082
+#1498769729
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 offlineClient.js
 images/background.png
-images/gamefieldborder.png
 images/fieldbackground-sheet0.png
 images/dot-sheet0.png
 images/dot-sheet1.png
@@ -23,6 +22,15 @@ images/line-sheet2.png
 images/line-sheet3.png
 images/hex-sheet0.png
 images/overlay-sheet0.png
+images/ring-sheet0.png
+images/ring-sheet1.png
+images/ring-sheet2.png
+images/ring-sheet3.png
+images/ring-sheet4.png
+images/ring-sheet5.png
+images/ring-sheet6.png
+images/ring-sheet7.png
+images/ring-sheet8.png
 media/click.m4a
 media/click.ogg
 media/warp.m4a
