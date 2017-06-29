@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1498769729,
+	"version": 1498775102,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -36,6 +36,8 @@
 		"media/click.ogg",
 		"media/warp.m4a",
 		"media/warp.ogg",
+		"media/tick.m4a",
+		"media/tick.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
