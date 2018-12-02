@@ -1,9 +1,12 @@
 {
-"TOTAL_MEMORY": 268435456,
+"companyName": "ArchaicStudios",
+"productName": "ScatteredOnGalacticWinds",
 "dataUrl": "ScatteredOnGalacticWinds.data.unityweb",
-"asmCodeUrl": "ScatteredOnGalacticWinds.asm.code.unityweb",
-"asmMemoryUrl": "ScatteredOnGalacticWinds.asm.memory.unityweb",
-"asmFrameworkUrl": "ScatteredOnGalacticWinds.asm.framework.unityweb",
+"wasmCodeUrl": "ScatteredOnGalacticWinds.wasm.code.unityweb",
+"wasmFrameworkUrl": "ScatteredOnGalacticWinds.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"backgroundColor": "#231F20"
 }
